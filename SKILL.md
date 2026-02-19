@@ -3,8 +3,9 @@ name: imaginal-realm-navigation
 description: A framework for working with the alam al-mithal (mundus imaginalis) - the intermediate world between pure spirit and pure matter - derived from Ibn Arabi's teachings as interpreted through the Sufi...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4207
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - imaginal-realm-navigation
 - transformation
